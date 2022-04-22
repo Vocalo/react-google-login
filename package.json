@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/anthonyjgrove/react-google-login",
   "dependencies": {
-    "@types/react": "*",
+    "@types/react": "16.14.24",
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
