@@ -64,7 +64,7 @@
     "autoprefixer": "^9.7.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^24.7.1",
-    "babel-loader": "^8.0.5",
+    "babel-loader": "^8.2.4",
     "babel-plugin-transform-react-constant-elements": "^6.23.0",
     "babel-plugin-transform-react-inline-elements": "^6.22.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
